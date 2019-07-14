@@ -1,0 +1,8 @@
+com\jaya\shree\beans\StudentRegistration.class
+com\jaya\shree\controllers\StudentDeleteController.class
+com\jaya\shree\server\main\SpringBootRest2Application.class
+com\jaya\shree\beans\Student.class
+com\jaya\shree\beans\StudentRegistrationReply.class
+com\jaya\shree\controllers\StudentRetrieveController.class
+com\jaya\shree\controllers\StudentRegistrationController.class
+com\jaya\shree\controllers\StudentUpdateController.class
